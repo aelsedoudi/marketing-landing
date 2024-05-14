@@ -1,0 +1,7 @@
+<svg class="rainbowVertical" xmlns="http://www.w3.org/2000/svg" width="95.62" height="212.02" viewBox="0 0 95.62 212.02">
+    <line className="one" x1="67.81" x2="67.81" y2="212.02" fill="none" stroke="#ffcd00" stroke-miterlimit="10" stroke-width="12" />
+    <line className="two" x1="89.62" x2="89.62" y2="212.02" fill="none" stroke="#238dc1" stroke-miterlimit="10" stroke-width="12" />
+    <line className="three" x1="47.11" x2="47.11" y2="212.02" fill="none" stroke="#efb8a9" stroke-miterlimit="10" stroke-width="12" />
+    <line className="four" x1="25.85" x2="25.85" y2="212.02" fill="none" stroke="#ff8300" stroke-miterlimit="10" stroke-width="12" />
+    <line className="five" x1="6" x2="6" y2="212.02" fill="none" stroke="#aac6c9" stroke-miterlimit="10" stroke-width="12" />
+</svg>

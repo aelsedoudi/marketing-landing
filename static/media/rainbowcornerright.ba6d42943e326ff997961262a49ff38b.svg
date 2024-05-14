@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="372" height="294" viewBox="0 0 372 294">
+    <defs>
+        <clipPath id="a"><rect width="372" height="312" fill="none" /></clipPath>
+    </defs>
+    <path className="one" d="M48.44-2c0,141.38,111,256,248,256s248-114.62,248-256" fill="none" stroke="#ffcd00" stroke-miterlimit="10" stroke-width="12" />
+    <path className="two" d="M17.44-2c0,159.06,124.91,288,279,288s279-128.94,279-288" fill="none" stroke="#238dc1" stroke-miterlimit="10" stroke-width="12" />
+    <path className="three" d="M79.44-2c0,123.71,97.15,224,217,224s217-100.29,217-224" fill="none" stroke="#efb8a9" stroke-miterlimit="10" stroke-width="12" />
+    <path className="four" d="M110.44-2c0,106,83.31,192,186,192s186-86,186-192" fill="none" stroke="#ff8300" stroke-miterlimit="10" stroke-width="12" />
+    <path className="five" d="M137.56-2c0,90.57,71.13,164,158.88,164S455.31,88.57,455.31-2" fill="none" stroke="#aac6c9" stroke-miterlimit="10" stroke-width="12" />
+</svg>

@@ -1,0 +1,10 @@
+<svg class="rainbowCorner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="372" height="294" viewBox="0 0 372 294">
+    <defs>
+        <clipPath id="a"><rect y="1" width="384" height="312" fill="none" /></clipPath>
+    </defs>
+    <path d="M334-1c0,141.38-114.62,256-256,256S-178,140.38-178-1" fill="none" stroke="#ffcd00" stroke-miterlimit="10" stroke-width="12" />
+    <path d="M366-1c0,159.06-128.94,288-288,288S-210,158.06-210-1" fill="none" stroke="#238dc1" stroke-miterlimit="10" stroke-width="12" />
+    <path d="M302-1c0,123.71-100.29,224-224,224S-146,122.71-146-1" fill="none" stroke="#efb8a9" stroke-miterlimit="10" stroke-width="12" />
+    <path d="M270-1c0,106-86,192-192,192S-114,105-114-1" fill="none" stroke="#ff8300" stroke-miterlimit="10" stroke-width="12" />
+    <path d="M242-1A164,164,0,0,1,78,163,164,164,0,0,1-86-1" fill="none" stroke="#aac6c9" stroke-miterlimit="10" stroke-width="12" />
+</svg>

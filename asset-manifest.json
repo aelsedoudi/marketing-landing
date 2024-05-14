@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c650027c.css",
+    "main.js": "/static/js/main.6cb72444.js",
+    "static/js/787.566ad766.chunk.js": "/static/js/787.566ad766.chunk.js",
+    "static/media/ALL-MarketingLook-Toolkit-2-01042022-4.jpg": "/static/media/ALL-MarketingLook-Toolkit-2-01042022-4.cf49e6b1aea559567492.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/MarketingLogo.svg": "/static/media/MarketingLogo.92bb2e8543eca9cab572ded2ed3f021d.svg",
+    "static/media/ReactSeoLogo.svg": "/static/media/ReactSeoLogo.624faee0eafa7a5c1e9d21dd07b1757d.svg",
+    "static/media/Icon1.svg": "/static/media/Icon1.7b45b43331919cf7855e20938a963064.svg",
+    "static/media/Icon2.svg": "/static/media/Icon2.70e1f93e9db7b67b86a4ace4cea5ab21.svg",
+    "static/media/Icon3.svg": "/static/media/Icon3.31d7fd895b4079f7c261284b68d2cf8e.svg",
+    "static/media/RainbowCornerTall.svg": "/static/media/RainbowCornerTall.67156fa0ced5ea8c79687fbaabd27e58.svg",
+    "static/media/RainbowCornerRight.svg": "/static/media/RainbowCornerRight.ba6d42943e326ff997961262a49ff38b.svg",
+    "static/media/RainbowCorner.svg": "/static/media/RainbowCorner.031afb4f2fbaaf60debf4bc4a86abde6.svg",
+    "static/media/RainbowVertical.svg": "/static/media/RainbowVertical.b6b4f5011a8b667c7865ae3add199749.svg",
+    "index.html": "/index.html",
+    "main.c650027c.css.map": "/static/css/main.c650027c.css.map",
+    "main.6cb72444.js.map": "/static/js/main.6cb72444.js.map",
+    "787.566ad766.chunk.js.map": "/static/js/787.566ad766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c650027c.css",
+    "static/js/main.6cb72444.js"
+  ]
+}
